@@ -1,0 +1,23 @@
+{
+  "name": "novel",
+  "version": "1.0.0",
+  "description": "金庸小说主要是指金庸的武侠小说，共计，十五部，它们可以由这几句话描述：\"飞雪连天射白鹿，笑书神侠倚碧鸳。\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuwwenke/novel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuwwenke/novel/issues"
+  },
+  "homepage": "https://github.com/xuwwenke/novel#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
